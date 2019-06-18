@@ -1,2 +1,2 @@
-# Yetkili-Plugin---PocketMine
+# Yetkili-Plugin-PocketMine
 Deneme
