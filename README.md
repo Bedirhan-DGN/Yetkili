@@ -1,5 +1,10 @@
 # NOT
 Plugini editlemek için "plugin_data" adlı klasörün içindeki "yetkili" klasöründen editleye bilirsiniz.
 
-# Yetkili Ekleme Sayısı
-Max 7 adet yetkili ismi bulunmakta.
+# MAX YETKİLİ
+Max 7 adet yetkili ismi eklenebilir.
+
+# GEREKLİ PLUGİN
+FormAPİ
+
+
